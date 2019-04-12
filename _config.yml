@@ -15,10 +15,9 @@ keep_files:
 
 # Site settings
 title: Data Center 
-subtitle: "A free HTML5 agency template"
-url: "https://vuquangnguyen2018.github.io/" # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/DataCenter"
+subtitle: Vu Quang Nguyen 
+url: https://vuquangnguyen2018.github.io/
+baseurl: /DataCenter/
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
