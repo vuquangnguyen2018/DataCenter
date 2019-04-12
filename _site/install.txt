@@ -1,0 +1,7 @@
+ruby -v
+sudo gem install bundler
+git clone https://github.com/ndrewtl/airspace-jekyll.git
+cd airspace-jekyll
+$ bundle install --path vendor/bundle
+$ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
+~                                                               
