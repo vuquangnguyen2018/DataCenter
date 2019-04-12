@@ -14,12 +14,12 @@ keep_files:
 
 
 # Site settings
-title: Airspace
+title: Data Center 
 subtitle: "A free HTML5 agency template"
-url: https://vuquangnguyen2018.github.io/ # the base hostname & protocol for your site
+url: "https://vuquangnguyen2018.github.io/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: /DataCenter
-cover: assets/cover.png
+cover: /assets/cover.png
 logo: /assets/logo.png
 
 # Build settings
@@ -35,5 +35,3 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
-
-theme: jekyll-theme-minimal
