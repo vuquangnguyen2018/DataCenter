@@ -1,12 +1,19 @@
-- counter: 20000
+- counter: 350
   icon: ion-ios-chatboxes-outline
-  text: Cups of Coffee
-- counter: 1500
+  text: Lượt hỗ trợ các bạn trong 1 tháng
+- counter: 140
   icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
+  text: Sô tài liệu trong 1 ngày/analysis
+- counter: 20
   icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
+  text: Người bạn gọi là thân thiết
+- counter: 460
   icon: ion-ios-timer-outline
-  text: Websites built
+  text: Giờ để học/tuần
+- counter: 270
+  icon: ion-android-arrow-down
+  text: Lượt chặn facebook  
+- counter: 9
+  icon: ion-android-attach
+  text: Post trên facebook 
+  # https://aalmiray.github.io/ikonli/cheat-sheet-ionicons.html
